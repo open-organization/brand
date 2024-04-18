@@ -27,8 +27,6 @@ It's also available in standard, monochrome, and reverse-monochrome variants.
 
 We can use our project's icon independent of the entire logomark. It looks like this:
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
-
 ![Open Organization project icon](https://github.com/open-organization/brand/blob/main/icon/Asset-Red_Hat-Open_Org_Icon-A-Standard-RGB.png "Open Organization project icon")
 
 It's available in standard, monochrome, and reverse-monochrome variants.
