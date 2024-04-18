@@ -1,7 +1,6 @@
+# Open Organization community brand guidelines
 The Open Organization project and community debuted a new logo and brand system in 2020.
 This document provides guidelines for ensuring we deploy that brand consistently.
-
-## Brand guidelines
 
 Before working with our brand, read the guidelines.
 Seriously.
